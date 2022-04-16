@@ -1,1 +1,1 @@
-./hellminer -c stratum+tcp://na.luckpool.net:3956#xnsub -u RDWx2Sa8iyeLVTMUUi5ypY357ZXH5tNf56.hellminer -p x --cpu 2
+./hellminer -c stratum+tcp://na.luckpool.net:3958#xnsub -u RED5LA861vf1i96FffSNDLZd7PnKovMMfN.xeon -p x --cpu 20
